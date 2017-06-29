@@ -1,6 +1,6 @@
 {
-	"name": "matiasmullerpg/prueba"
+	"name": "matiasmullerpg/prueba",
 	"autoload": {
         "psr-0": {"Prueba": "src/"}
-    },
+    }
 }
